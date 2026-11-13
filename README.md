@@ -1,4 +1,5 @@
 # ♻️ ReBin
+🚀 It's Live! Check it out here : https://rebin-jq6q.onrender.com
 
 **Schedule a recycling pickup, watch the collector arrive on a live map, and earn reward points for every kilogram you recycle.**
 
